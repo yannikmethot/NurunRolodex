@@ -1,0 +1,22 @@
+{
+    "results": [
+        {
+            "id": "yannik",
+            "fullname": "Yannik Methot",
+            "email": "yannik.methot@nurun.com",
+            "extension": "22111",
+            "role": "Architect"
+        },
+        {
+            "id": "mathieu",
+            "fullname": "Mathieu Sylvain",
+            "email": "mathieu@ti-coco.com",
+            "photo": {
+                "stream": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACklEQVR4nGMAAQAABQABDQottAAAAABJRU5ErkJggg==",
+                "type": "image/png",
+                "encoding": "base64"
+            },
+            "role": "Entertainer"
+        }
+    ]
+}
