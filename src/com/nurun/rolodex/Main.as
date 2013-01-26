@@ -30,6 +30,7 @@ package com.nurun.rolodex
 		public function Main()
 		{
 			addEventListener( Event.ADDED_TO_STAGE, onAddedToStage );
+
 		}
 		
 		
